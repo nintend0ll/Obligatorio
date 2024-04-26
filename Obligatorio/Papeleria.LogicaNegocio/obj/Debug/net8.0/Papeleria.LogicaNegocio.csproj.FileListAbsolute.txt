@@ -1,0 +1,12 @@
+C:\Users\agust\OneDrive\Escritorio\ORT\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\ORT\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agust\OneDrive\Escritorio\ORT\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\agust\OneDrive\Escritorio\ORT\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.AssemblyInfo.cs
+C:\Users\agust\OneDrive\Escritorio\ORT\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\agust\OneDrive\Escritorio\ORT\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\bin\Debug\net8.0\Papeleria.LogicaNegocio.deps.json
+C:\Users\agust\OneDrive\Escritorio\ORT\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\bin\Debug\net8.0\Papeleria.LogicaNegocio.dll
+C:\Users\agust\OneDrive\Escritorio\ORT\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\bin\Debug\net8.0\Papeleria.LogicaNegocio.pdb
+C:\Users\agust\OneDrive\Escritorio\ORT\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.dll
+C:\Users\agust\OneDrive\Escritorio\ORT\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\obj\Debug\net8.0\refint\Papeleria.LogicaNegocio.dll
+C:\Users\agust\OneDrive\Escritorio\ORT\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.pdb
+C:\Users\agust\OneDrive\Escritorio\ORT\Programacion 3\Obligatorio\Papeleria.LogicaNegocio\obj\Debug\net8.0\ref\Papeleria.LogicaNegocio.dll

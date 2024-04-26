@@ -1,0 +1,30 @@
+﻿
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+}
+
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-info">@ViewBag.Message</div>
+}
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-info">@TempData["Message"]</div>
+}
+
+@if (ViewBag.Information != null)
+{
+    <div class="alert alert-dark">@ViewBag.Information</div>
+}
+
+@if (TempData["Information"] != null)
+{
+    <div class="alert alert-dark">@TempData["Information"]</div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
