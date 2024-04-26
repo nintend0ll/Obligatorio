@@ -4126,24 +4126,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\agust\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Jonattan Lima\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agust\\OneDrive\\Escritorio\\ORT\\Programacion 3\\Obligatorio\\Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj",
+      "projectUniqueName": "C:\\Users\\Jonattan Lima\\ORT\\Semestre 3\\Programacion 3\\Obligatorio\\Obligatorio\\Obligatorio\\Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj",
       "projectName": "Papeleria.AccesoDatos",
-      "projectPath": "C:\\Users\\agust\\OneDrive\\Escritorio\\ORT\\Programacion 3\\Obligatorio\\Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj",
-      "packagesPath": "C:\\Users\\agust\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\agust\\OneDrive\\Escritorio\\ORT\\Programacion 3\\Obligatorio\\Papeleria.AccesoDatos\\obj\\",
+      "projectPath": "C:\\Users\\Jonattan Lima\\ORT\\Semestre 3\\Programacion 3\\Obligatorio\\Obligatorio\\Obligatorio\\Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj",
+      "packagesPath": "C:\\Users\\Jonattan Lima\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jonattan Lima\\ORT\\Semestre 3\\Programacion 3\\Obligatorio\\Obligatorio\\Obligatorio\\Papeleria.AccesoDatos\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\agust\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Jonattan Lima\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4157,8 +4152,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\agust\\OneDrive\\Escritorio\\ORT\\Programacion 3\\Obligatorio\\Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj": {
-              "projectPath": "C:\\Users\\agust\\OneDrive\\Escritorio\\ORT\\Programacion 3\\Obligatorio\\Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj"
+            "C:\\Users\\Jonattan Lima\\ORT\\Semestre 3\\Programacion 3\\Obligatorio\\Obligatorio\\Obligatorio\\Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj": {
+              "projectPath": "C:\\Users\\Jonattan Lima\\ORT\\Semestre 3\\Programacion 3\\Obligatorio\\Obligatorio\\Obligatorio\\Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj"
             }
           }
         }

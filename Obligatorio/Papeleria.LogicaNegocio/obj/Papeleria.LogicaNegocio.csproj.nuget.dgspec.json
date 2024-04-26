@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\agust\\OneDrive\\Escritorio\\ORT\\Programacion 3\\Obligatorio\\Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj": {}
+    "C:\\Users\\Jonattan Lima\\ORT\\Semestre 3\\Programacion 3\\Obligatorio\\Obligatorio\\Obligatorio\\Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\agust\\OneDrive\\Escritorio\\ORT\\Programacion 3\\Obligatorio\\Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj": {
+    "C:\\Users\\Jonattan Lima\\ORT\\Semestre 3\\Programacion 3\\Obligatorio\\Obligatorio\\Obligatorio\\Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\agust\\OneDrive\\Escritorio\\ORT\\Programacion 3\\Obligatorio\\Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj",
+        "projectUniqueName": "C:\\Users\\Jonattan Lima\\ORT\\Semestre 3\\Programacion 3\\Obligatorio\\Obligatorio\\Obligatorio\\Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj",
         "projectName": "Papeleria.LogicaNegocio",
-        "projectPath": "C:\\Users\\agust\\OneDrive\\Escritorio\\ORT\\Programacion 3\\Obligatorio\\Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj",
-        "packagesPath": "C:\\Users\\agust\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\agust\\OneDrive\\Escritorio\\ORT\\Programacion 3\\Obligatorio\\Papeleria.LogicaNegocio\\obj\\",
+        "projectPath": "C:\\Users\\Jonattan Lima\\ORT\\Semestre 3\\Programacion 3\\Obligatorio\\Obligatorio\\Obligatorio\\Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj",
+        "packagesPath": "C:\\Users\\Jonattan Lima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jonattan Lima\\ORT\\Semestre 3\\Programacion 3\\Obligatorio\\Obligatorio\\Obligatorio\\Papeleria.LogicaNegocio\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\agust\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Jonattan Lima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
